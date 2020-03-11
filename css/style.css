@@ -1,0 +1,513 @@
+@import url('https://fonts.googleapis.com/css?family=Be+Vietnam:400,500,600,700&display=swap');
+
+body{
+    font-family: 'Be Vietnam', sans-serif;
+    font-display: block;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-weight: 500;
+    color: #9095a7;
+}
+
+.qp_q{
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/bg-tablet-pattern.svg');
+    background-repeat: no-repeat;
+    background-position: 116% -100px;
+}
+
+._3h{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 10rem;
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+._1s{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+._qiw{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+._kd{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 0;
+}
+
+._gt{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+._3ia{
+    margin: 10px 20px;
+    color: #242E52;
+    font-weight: 600;
+    text-decoration: none;
+    font-family: 'Calibri';
+}
+
+._3ia:hover{
+    color: #9095a7;
+}
+
+._ijl{
+    display: flex;
+    margin-right: 10rem;
+}
+
+._ji{
+    color: #fff;
+    text-decoration: none;
+    font-size: 13px;
+    border-radius: 25px;
+    font-weight: 500;
+    background-color: #F3613C;
+    display: inline-flex;
+    align-items: center;
+    height: 3.3em;
+    padding-left: 2em;
+    padding-right: 2em;
+    font-weight: 600;
+    -webkit-box-shadow: -1px 8px 16px -7px #F3613C; 
+    box-shadow: -1px 8px 16px -7px #F3613C;    
+}
+
+._ji:hover{
+    background-color: #F98F75;
+    -webkit-box-shadow: -1px 8px 16px -7px #FFC3BA; 
+    box-shadow: -1px 8px 16px -7px #FFC3BA;    
+}
+
+._ka{
+    margin: 70px 10rem 70px 10rem;
+}
+
+._kkl{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.jsd_{
+    width: 50%;
+    padding-right: 20px;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+
+.sij_sj{
+    width: 50%;
+}
+
+.aljf_{
+    padding: 1rem 1.2rem 1rem 0;
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: #242E52;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+.jaf_he{
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
+.sij_sj img{
+    width: 100%;
+}
+
+.lak_jf{
+
+}
+
+.fkj{
+    display: flex;
+    flex-flow: row wrap;
+    margin: 70px 10rem 70px 10rem;
+}
+
+.fk_wii{
+    width: 50% ;
+}
+
+.fk_wii div:nth-child(1){
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #242E52;
+    line-height: 1.2;
+    margin-bottom: 30px;
+}
+
+.fk_wii div:nth-child(2){
+    line-height: 1.5;
+}
+
+.ls_ww{
+    width: 50%;
+}
+
+.ls_ww1 {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.ls_jsj{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+}
+
+.ls_jjfi{
+    background-color: #F3613C;
+    color: #fff;
+    display: inline-flex;
+    align-items: center;
+    height: 2.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    font-weight: 600;
+    border-radius: 2em;
+}
+
+.ls_jdi{
+    font-weight: bold;
+    color: #242E52;
+    line-height: 1.2;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.ls_Akd{
+    line-height: 1.3;
+}
+
+.wh_Aj{
+    padding: 20px 0;
+}
+
+.wh_Aje{
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #242E52;
+    line-height: 1.2;
+    margin-bottom: 80px;
+    margin-top: 30px;
+    text-align: center;
+
+}
+
+.wh_jal{
+     display: flex;
+     flex-flow: row nowrap;
+     margin: 10px 10px;
+     box-sizing: border-box;
+     justify-content: center;
+     margin-top: 30px;
+     margin-bottom: 30px;
+}
+
+.wh_jaj{
+    width: 100%;
+    max-width: 33.33%;
+    padding: 30px 10px;
+    margin: 10px 10px;
+    background-color: #FAFAFA;
+    position: relative;
+    text-align: center;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+.lak_jf{
+    padding-bottom: 150px;
+    background-image: url('../images/bg-tablet-pattern.svg');
+    background-repeat: no-repeat;
+    background-position: left -70% bottom 20%;
+}
+
+.wh_jaj img{
+    width: 60px;
+    margin-top: -60px;
+    margin-bottom: 20px;
+}
+
+.wh_ei{
+    font-weight: bold;
+    color: #242E52;
+    margin-bottom: 20px;
+}
+
+.wh_awo{
+    text-align: center;
+    line-height: 1.5;
+}
+
+.nk_ja{
+    height: 13em;
+    background-color: #f3613c;
+    background-image: url('../images/bg-simplify-section-desktop.svg');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.nk_js{
+    margin: 0 10rem;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    height: 100%;
+    justify-content: center;
+}
+
+.text-white{
+    color: #fff;
+    text-align: left;
+}
+
+.nk_pa{
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #fff;
+    line-height: 1.2;
+    text-align: left;
+    margin-right: auto;
+}
+
+.btn{
+    color: #F3613C;
+    text-decoration: none;
+    font-size: 13px;
+    border-radius: 25px;
+    font-weight: 500;
+    background-color: #fff;
+    display: inline-flex;
+    align-items: center;
+    height: 3.3em;
+    padding-left: 2em;
+    padding-right: 2em;
+    font-weight: 600;
+}
+
+.btn:hover{
+    color: #F2CABF;
+}
+
+footer{
+    background-color: #1E1E26;
+    color: #fff;
+    height: 16em;
+    display: flex;
+    align-items: center;
+    padding: 60px 0;
+    box-sizing: border-box;
+}
+
+footer #path{
+    fill: #fff;
+}
+
+footer a{
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: #F3613C;
+}
+
+.f_f{
+    margin: 0 10rem;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.f_1s{
+    margin-bottom: auto;
+}
+
+.f_fj{
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+    width: 19%;
+}
+
+.links a {
+    text-decoration: none;
+}
+
+.links a:hover .link{
+    fill: #F3613C;
+}
+
+.fj_dj{
+    /* display: flex;
+    flex-flow: column; */
+}
+
+.fj_eii{
+    list-style: none;
+    margin: 0;
+}
+
+.fj_d{
+    height: 100%;
+    width: 27%;
+}
+
+.fj_eii li {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.fj_3d{
+    height: 100%;
+    width: 27%;
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+}
+
+._form{
+    height: 3em;
+    border-radius: 20px;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    border: none;
+}
+
+._form::placeholder{
+    color: #9095a7;
+}
+
+.button{
+    height: 3em;
+    border-radius: 20px;
+    display: inline-flex;
+    align-items: center;
+    border: none;
+    padding: 0 1.5em;
+    font-weight: bold;
+    background-color: #F3613C;
+    color: #fff;
+}
+
+.button:hover{
+    background-color: #F98F75;
+    cursor: pointer;
+}
+
+.co_jfj{
+    text-align: right;
+    margin-top: auto;
+    color: #9095a7;
+}
+
+@media (max-width: 776px) {
+    .qp_q{
+        width: 100%;
+        background-image: url('../images/bg-tablet-pattern.svg'), url('../images/bg-tablet-pattern.svg');
+        background-size: 100%, 100%;
+        background-position: top -50px right -50px, bottom;
+        margin-bottom: 100px;
+    }
+
+    ._qiw{
+        display: flex;
+        flex-direction: column;
+        display: none;
+        position: fixed;
+    }
+
+    ._ijl{
+        display: none;
+    }
+
+    ._3h{
+        margin-left: 2rem;
+    }
+
+    ._ka{
+        margin: 0;
+        margin-left: 3rem;
+    }
+
+    ._kkl {
+        display: flex;
+        flex-flow: column-reverse wrap;
+    }
+
+    .sij_sj {
+        width: 100%;
+    }
+
+    .jsd_ {
+        width: 100%;
+        text-align: center;
+        padding-right: 0px;
+        padding-top: 10px;
+        box-sizing: border-box;
+    }
+
+    .aljf_ {
+        padding: 0;
+        font-size: 2.3rem;
+        font-weight: bold;
+        color: #242E52;
+        line-height: 1.2;
+        margin-bottom: 20px;
+    }
+
+    .fkj {
+        display: flex;
+        flex-flow: column wrap;
+        margin: 0;
+    }
+
+    .fk_wii {
+        width: 100%;
+        text-align: center;
+    }
+
+    .fk_wii div:nth-child(1) {
+        font-size: 2rem;
+        font-weight: bold;
+        color: #242E52;
+        line-height: 1.2;
+        padding: 10px 2em;
+        margin-bottom: 30px;
+    }
+
+    footer{
+        display: none;
+    }
+
+
+
+
+}
